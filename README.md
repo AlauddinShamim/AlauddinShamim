@@ -19,8 +19,8 @@ I enjoy exploring the world of programming, building small things that solve rea
 -->
 
 ## 🌐 Find me here:
-- 📧 Email: meetyourshamim@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/alauddinshamim](https://linkedin.com/in/alauddinshamim)
+- 📧 Email:
+- 🔗 LinkedIn: 
 - 🎬 YouTube: [MEET Your Skills](https://youtube.com/@meetyourskills)
 
 ---
